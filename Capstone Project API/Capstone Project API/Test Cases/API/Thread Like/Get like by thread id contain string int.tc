@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get like by thread id contain string int</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c63d4088-7e11-4ee3-aba2-45af91786df0</testCaseGuid>
+</TestCaseEntity>

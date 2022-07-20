@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get thread by title name contain int</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc54c2ec-e214-4942-89b6-c54999413a61</testCaseGuid>
+</TestCaseEntity>

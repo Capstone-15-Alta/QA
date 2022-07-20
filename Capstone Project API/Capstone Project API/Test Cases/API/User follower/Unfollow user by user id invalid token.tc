@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Unfollow user by user id invalid token</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5b43cd0-1f45-4ef3-a708-bd488e51b2bc</testCaseGuid>
+</TestCaseEntity>

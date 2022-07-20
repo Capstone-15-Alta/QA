@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete Category By Id Contain Int String</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb6c7f1f-2764-499a-b066-8399ab2c6cc3</testCaseGuid>
+</TestCaseEntity>

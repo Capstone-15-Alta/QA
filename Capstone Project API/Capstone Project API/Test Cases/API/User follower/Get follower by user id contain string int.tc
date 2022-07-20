@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get follower by user id contain string int</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6dcd402-da55-4da3-bf3c-50d2b347d1e1</testCaseGuid>
+</TestCaseEntity>

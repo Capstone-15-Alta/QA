@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete user by id contain int and character</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db4dba84-00db-4164-82c4-035848f8833e</testCaseGuid>
+</TestCaseEntity>

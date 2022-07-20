@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get follower by thread id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a610790f-51c2-4290-ae72-e1f07dcc6a5c</testCaseGuid>
+</TestCaseEntity>

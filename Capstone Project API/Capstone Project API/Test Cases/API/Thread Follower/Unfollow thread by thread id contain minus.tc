@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Unfollow thread by thread id contain minus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>59c3c202-66dc-4ca8-9cb4-f6365d9954ed</testCaseGuid>
+</TestCaseEntity>

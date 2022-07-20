@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete thread by id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b06d7bd0-78c6-43bb-94f2-7953737b4edc</testCaseGuid>
+</TestCaseEntity>

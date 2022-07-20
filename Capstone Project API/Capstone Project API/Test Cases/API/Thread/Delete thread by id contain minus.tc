@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete thread by id contain minus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4eacac1-be86-4e60-8458-ca332b62cce9</testCaseGuid>
+</TestCaseEntity>

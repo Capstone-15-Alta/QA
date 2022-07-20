@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update thread by id contain string minus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad50c711-ed53-4d77-baa4-aef8535afc9d</testCaseGuid>
+</TestCaseEntity>

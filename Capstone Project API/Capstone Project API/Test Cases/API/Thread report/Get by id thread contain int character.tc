@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get by id thread contain int character</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9d1636c-3adb-41ae-b4b2-5199fef05eb3</testCaseGuid>
+</TestCaseEntity>

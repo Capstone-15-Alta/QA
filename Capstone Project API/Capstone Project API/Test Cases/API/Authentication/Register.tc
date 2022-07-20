@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6986d38-3eb7-4f54-8e24-4b193bc2c82b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2e59f58b-70d2-44d6-9bb7-908c5aadfefb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5e5bf826-5e88-4c38-91ae-5b40f38e8b6e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fe5cc0f2-e358-4fb4-bcf7-d246e5c6c765</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>['damayanti', '', 'r', '11111111', 'hshshR61', 'yoyoii']</defaultValue>
+      <description></description>
+      <id>2e59f58b-70d2-44d6-9bb7-908c5aadfefb</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>['Akucantik88', 'Aku', '11', 's', 'g****', '']</defaultValue>
+      <description></description>
+      <id>5e5bf826-5e88-4c38-91ae-5b40f38e8b6e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>['elfrida1233@gmail.com', 'gmail.com', 'elfrida@gmail.comyolanda@gmail.com', '@gmail.com', '!yahooo', '']</defaultValue>
+      <description></description>
+      <id>fe5cc0f2-e358-4fb4-bcf7-d246e5c6c765</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

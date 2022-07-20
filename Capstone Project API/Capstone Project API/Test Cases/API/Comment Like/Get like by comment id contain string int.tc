@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get like by comment id contain string int</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8b35fc2-bdd1-492d-987c-b7309f060ab5</testCaseGuid>
+</TestCaseEntity>

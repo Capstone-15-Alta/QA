@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Read Notification by Id Contain Int Character</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a14f7667-ffeb-468a-ae72-19b4c2613419</testCaseGuid>
+</TestCaseEntity>

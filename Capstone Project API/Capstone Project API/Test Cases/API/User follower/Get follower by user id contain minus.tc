@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get follower by user id contain minus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d636b8ce-eb07-4082-bc58-ceaf99d3b634</testCaseGuid>
+</TestCaseEntity>

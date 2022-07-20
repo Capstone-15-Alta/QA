@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change roles to moderator invalid token</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4e1a530f-c19a-4fc9-8b40-89f1544f4bef</testCaseGuid>
+</TestCaseEntity>

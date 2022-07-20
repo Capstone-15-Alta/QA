@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get follower by thread id contain minus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3b99244-1489-4b3a-883a-68256b68edab</testCaseGuid>
+</TestCaseEntity>

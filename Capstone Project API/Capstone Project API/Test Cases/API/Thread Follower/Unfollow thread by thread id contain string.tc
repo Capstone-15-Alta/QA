@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Unfollow thread by thread id contain string</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2ee62016-aaef-45ad-8409-25838f980412</testCaseGuid>
+</TestCaseEntity>

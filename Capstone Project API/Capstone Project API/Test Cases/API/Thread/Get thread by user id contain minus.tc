@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get thread by user id contain minus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89789a7f-2e45-47a4-8c99-060969cc820b</testCaseGuid>
+</TestCaseEntity>
