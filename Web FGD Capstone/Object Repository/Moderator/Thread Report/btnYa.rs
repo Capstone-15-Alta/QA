@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnYa</name>
+   <tag></tag>
+   <elementGuidId>5fc46423-79b2-4ea0-a6ba-4eb36295fdf3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[2]/div/div[6]/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[2]/div/div[6]/button[1]</value>
+      <webElementGuid>c9f7a5a0-3f6c-4034-8133-c341bd363a91</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

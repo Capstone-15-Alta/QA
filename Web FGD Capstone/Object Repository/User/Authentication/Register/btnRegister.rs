@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnRegister</name>
+   <tag></tag>
+   <elementGuidId>db5a19cf-cf4b-4c29-8d50-7e82ee39b870</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/div/div/div/div/div/div/div[2]/div/div/form/div[5]/button/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/div/div/div/div/div/div/div[2]/div/div/form/div[5]/button/div</value>
+      <webElementGuid>098a1514-f680-4e54-81e9-7dcb4e497b79</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

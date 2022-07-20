@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Invalid Register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53585344-f240-4161-9436-65d429e1b5b6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0841d341-06a2-4516-98c7-9312d3176dbb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8cc7c97f-bd79-4111-9c65-1420e804490f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5e631301-ebaf-4960-b877-8e290c034e28</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>['gyouwaa', 'r', 'lairmaaf', 'yiyow12', 'sigaiang131']</defaultValue>
+      <description></description>
+      <id>0841d341-06a2-4516-98c7-9312d3176dbb</id>
+      <masked>false</masked>
+      <name>Nama</name>
+   </variable>
+   <variable>
+      <defaultValue>['!gmail.com', 'e', 'amita@gmail.comelfrida121@gmail.com', 'elfrier@gmail.com', 'yaho13u.com']</defaultValue>
+      <description></description>
+      <id>8cc7c97f-bd79-4111-9c65-1420e804490f</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>['joiuyyaaa', 'c', 'skskii124', 'jouoo12', 'ggaywiass']</defaultValue>
+      <description></description>
+      <id>5e631301-ebaf-4960-b877-8e290c034e28</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

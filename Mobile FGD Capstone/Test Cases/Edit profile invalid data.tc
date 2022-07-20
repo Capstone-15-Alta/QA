@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Edit profile invalid data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15556263-b091-43dd-8888-b63b7416f9f1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f5b179bd-ce50-486d-8fe7-a826013a1696</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a232d6a5-afdb-46f4-ac72-5f47d30923fd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a3652742-4a0b-4363-853e-655f086368a2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cbabd1b6-1b2e-452d-b5e1-a434902878dd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1c4d150b-3023-47d7-85f5-8bd71788508a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>52af3b71-3bf4-4f7f-befe-11b13f559b70</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>['@2342', '1231']</defaultValue>
+      <description></description>
+      <id>f5b179bd-ce50-486d-8fe7-a826013a1696</id>
+      <masked>false</masked>
+      <name>NamaAwal</name>
+   </variable>
+   <variable>
+      <defaultValue>['@1324', '12131']</defaultValue>
+      <description></description>
+      <id>a232d6a5-afdb-46f4-ac72-5f47d30923fd</id>
+      <masked>false</masked>
+      <name>NamaAkhir</name>
+   </variable>
+   <variable>
+      <defaultValue>['34567890', 'E1234@']</defaultValue>
+      <description></description>
+      <id>a3652742-4a0b-4363-853e-655f086368a2</id>
+      <masked>false</masked>
+      <name>NomorHandphone</name>
+   </variable>
+   <variable>
+      <defaultValue>['!yahon', '123456']</defaultValue>
+      <description></description>
+      <id>cbabd1b6-1b2e-452d-b5e1-a434902878dd</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>['@1345', '2345']</defaultValue>
+      <description></description>
+      <id>1c4d150b-3023-47d7-85f5-8bd71788508a</id>
+      <masked>false</masked>
+      <name>Kota</name>
+   </variable>
+   <variable>
+      <defaultValue>['#234', '234567']</defaultValue>
+      <description></description>
+      <id>52af3b71-3bf4-4f7f-befe-11b13f559b70</id>
+      <masked>false</masked>
+      <name>Negara</name>
+   </variable>
+</TestCaseEntity>
